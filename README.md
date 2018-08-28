@@ -112,6 +112,32 @@ background-color:black;
 </p>
 
 </body>
+
+<!DOCTYPE html>
+<html>
+<title>About Me</title>
+<head>
+<style>
+
+body { 
+background-color:black;}
+h1 {font-family:brittanicbold;color:#FFFFFF;font-size:200%;text-align:center;}
+h2 {font-family:arial; font-size:100%;text-align:left;}
+h3 {font-family:arial; font-size:125%;text-align:center;}
+p {font-family:timesnewroman;color:#FFFFFF;font-size:}100%;}
+a {font-family:arial;font-size:}100%;}
+</style>
+</head>
+<header>
+<h1> <b>About Me</b> </h1>
+
+<hr style="width:75%">
+</header>
+<p> My name is Andrew McCaffrey and I am a senior at WRA.  This is my website for my digital fabrication and engineering class where you will find all of my creations. </p> 
+<p> </p>
+</html>
+
+
 </html>
 
 
