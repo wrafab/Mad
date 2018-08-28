@@ -8,7 +8,7 @@
 <html>
 
 <head>
-<title>Andrew McCaffrey</title>
+<title>Ding Ma</title>
 
 <style>
 h1 {font-family:arial;color:#FFFFFF;font-size:200%;text-align:center;max-width:1280px;}
@@ -46,73 +46,13 @@ background-color:black;
 <body>
 
 <p>
-<h1>Andrew McCaffrey's Digital Engineering and Fabrication Works 2017</h1>
+<h1>Ding Ma Digital Engineering 2018</h1>
 </p>
 
 <p>
 <a href="me.html">About me</a>
 </p>
 
-
-<p>
-<a href="w1.html">Team Challenges and Website Design</a>
-</p>
-
-<p>
-<a href="w2.html">CAD, Fusion 360, and Design</a>
-</p>
-
-<p>
-<a href="w3.html">W=Garment and UV Printer</a>
-</p>
-
-<p>
-<a href="w4.html">Computer Controlled Cutting and Laser Cutting and Engraving</a>
-</p>
-
-<p>
-<a href="w5.html">Vinyl Cutting and Printing</a>
-</p>
-
-<p>
-<a href="w6.html">3D Printing and Scanning</a>
-</p>
-
-<p>
-<a href="w7.html">CNC Milling, Casting and Composites</a>
-</p>
-
-<p>
-<a href="w8.html">Casting Tin</a>
-</p>
-
-<p>
-<a href="w9.html">Soldering and Welding</a>
-</p>
-
-<p>
-<a href="w10.html">Skateboards</a>
-</p>
-
-<p>
-<a href="w11.html">Electronics</a>
-</p>
-	
-<p>
-<a href="w12.html">Arduino/ Rasberry Pi</a>
-</p>
-
-<p>
-<a href="w13.html">Robotics</a>
-</p>
-	
-<p>
-<a href="w14.html">Wearables and Electronics</a>
-</p>
-	
-<p>
-<a href="w15.html">Final Project</a>
-</p>
 
 </body>
 </html>
