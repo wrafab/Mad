@@ -2,10 +2,13 @@
 
 
 
+
+
+
 <html>
 
 <head>
-<title>Ding Ma</title>
+<title>Andrew McCaffrey</title>
 
 <style>
 h1 {font-family:arial;color:#FFFFFF;font-size:200%;text-align:center;max-width:1280px;}
@@ -43,7 +46,7 @@ background-color:black;
 <body>
 
 <p>
-<h1>         Ding Ma's Digital Engineering and Fabrication website project 2018</h1>
+<h1>Andrew McCaffrey's Digital Engineering and Fabrication Works 2017</h1>
 </p>
 
 <p>
@@ -112,8 +115,6 @@ background-color:black;
 </p>
 
 </body>
-
-
 </html>
 
 
