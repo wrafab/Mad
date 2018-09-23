@@ -1,0 +1,43 @@
+
+
+<html>
+
+<head>
+<title> Week 2 </title>
+
+<style>
+h1 {font-family:brittanicbold;font-size:200%;text-align:center;}
+h2 {font-family:brittanicbold;font-size:150%;text-align:center;}
+h3 {font-family:verdana;font-size:125%;}
+p {font-family:verdana;font-size:100%;}
+li {font-family:verdana;font-size:100%}
+a {font-family:verdana;font-size:}100%;}
+
+
+
+</style>
+
+<body>
+<h1> Week 2</h1>
+<h2>Computer-Aided Design</h2>
+
+<hr style="width:50%">
+
+<h3> Project | Wax Stamp</h3>
+<p> 
+This week we learned all about CAD (computer aided design) and I worked on creating my own wax stamp using the Fusion360 program.  Once I designed my stamp I exported it into makerbot and put the file on a USB drive.  Then I printed it out on the 3D printer.
+<h3>Files</h3>
+<ul>
+<li><a href="stamp.stl">Stamp</a>
+</li>
+</ul>
+
+	</p>	
+	
+	
+	
+
+  
+
+	
+
